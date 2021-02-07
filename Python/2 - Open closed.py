@@ -16,7 +16,7 @@ class AreaCalculator:
         return area
 
 """
-Now i want to expanse my class to compute area from triangles.
+Now i want to expand AreaCalculator class to compute triangles area.
 """
 
 class AreaCalculator:

@@ -1,5 +1,5 @@
 # Single Responsability: Each class must have a single responsability
-# Responsabilidad Unica :Cada clase debería tener una sola resonsabilidad
+# Responsabilidad Unica : Cada clase debería tener una sola resonsabilidad
 
 
 # Bad
